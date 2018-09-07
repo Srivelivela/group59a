@@ -51,7 +51,7 @@ public class Person2 {
 			 currentRan = ran.nextInt(arr.length);
 
 			usedIndex.add(currentRan);
-			arr2[i]=arr[currentRan]; //it is working
+			arr2[i]=arr[currentRan]; //it is working ...
 
 		}
 		output = arr2.toString();
